@@ -1,3 +1,5 @@
+{
+  "status": "Success",
 "details": {
     "name": "The Book of Purification",
     "reference": "Sahih Al-Muslim",
@@ -1300,4 +1302,5 @@
         "reference_hadith": "Hadith 144"
       }
     ]
+  }
   }

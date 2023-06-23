@@ -1,3 +1,5 @@
+{
+  "status": "Success",
  "details": {
     "name": "The Book of Mosques and Places of Prayer",
     "reference": "Sahih Al-Muslim",
@@ -3622,4 +3624,5 @@
         "reference_hadith": "Hadith 402"
       }
     ]
+  }
   }

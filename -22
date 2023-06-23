@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
  "details": {
     "name": "The Book of Musaqah",
     "reference": "Sahih Al-Muslim",
@@ -1606,4 +1608,5 @@
         "reference_hadith": "Hadith 178"
       }
     ]
+  }
   }

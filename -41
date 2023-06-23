@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
  "details": {
     "name": "The Book of Poetry",
     "reference": "Sahih Al-Muslim",
@@ -103,4 +105,5 @@
         "reference_hadith": "Hadith 11"
       }
     ]
+  }
   }

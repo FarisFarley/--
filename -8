@@ -1,3 +1,5 @@
+{
+  "status": "Success",
  "details": {
     "name": "The Book of Prayer - Two Eids",
     "reference": "Sahih Al-Muslim",
@@ -220,4 +222,5 @@
         "reference_hadith": "Hadith 24"
       }
     ]
+  }
   }

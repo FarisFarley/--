@@ -1,3 +1,5 @@
+{
+  "status": "Success",
  "details": {
     "name": "The Book of Heart-Melting Traditions",
     "reference": "Sahih Al-Muslim",
@@ -139,4 +141,5 @@
         "reference_hadith": "Hadith 15"
       }
     ]
+  }
   }

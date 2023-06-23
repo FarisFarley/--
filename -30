@@ -1,3 +1,5 @@
+  {
+    "status": "Success",
   "details": {
     "name": "The Book of Judicial Decisions",
     "reference": "Sahih Al-Muslim",
@@ -256,4 +258,5 @@
         "reference_hadith": "Hadith 28"
       }
     ]
+  }
   }

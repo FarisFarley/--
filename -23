@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
  "details": {
     "name": "The Book of the Rules of Inheritance",
     "reference": "Sahih Al-Muslim",
@@ -211,4 +213,5 @@
         "reference_hadith": "Hadith 23"
       }
     ]
+  }
   }

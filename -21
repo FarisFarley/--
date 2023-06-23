@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
  "details": {
     "name": "The Book of Transactions",
     "reference": "Sahih Al-Muslim",
@@ -1444,4 +1446,5 @@
         "reference_hadith": "Hadith 160"
       }
     ]
+  }
   }

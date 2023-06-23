@@ -1,3 +1,5 @@
+  {
+    "status": "Success",
   "details": {
     "name": "The Book of Oaths",
     "reference": "Sahih Al-Muslim",
@@ -796,4 +798,5 @@
         "reference_hadith": "Hadith 88"
       }
     ]
+  }
   }

@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
  "details": {
     "name": "The Book of Invoking Curses",
     "reference": "Sahih Al-Muslim",
@@ -247,4 +249,5 @@
         "reference_hadith": "Hadith 27"
       }
     ]
+  }
   }

@@ -1,3 +1,5 @@
+{
+  "status": "Success",
 "details": {
     "name": "The Book of Zakat",
     "reference": "Sahih Al-Muslim",
@@ -2083,4 +2085,5 @@
         "reference_hadith": "Hadith 231"
       }
     ]
+  }
   }

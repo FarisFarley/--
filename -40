@@ -1,3 +1,5 @@
+  {
+    "status": "Success",
   "details": {
     "name": "The Book Concerning the Use of Correct Words",
     "reference": "Sahih Al-Muslim",
@@ -211,4 +213,5 @@
         "reference_hadith": "Hadith 23"
       }
     ]
+  }
   }

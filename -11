@@ -1,3 +1,5 @@
+{
+  "status": "Success",
 "details": {
     "name": "The Book of Prayer - Funerals",
     "reference": "Sahih Al-Muslim",
@@ -1246,4 +1248,5 @@
         "reference_hadith": "Hadith 138"
       }
     ]
+  }
   }

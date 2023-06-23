@@ -1,3 +1,5 @@
+  {
+    "status": "Success",
   "details": {
     "name": "The Book of Legal Punishments",
     "reference": "Sahih Al-Muslim",
@@ -652,4 +654,5 @@
         "reference_hadith": "Hadith 72"
       }
     ]
+  }
   }

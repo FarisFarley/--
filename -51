@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
  "details": {
     "name": "Characteristics of The Hypocrites And Rulings Concerning Them",
     "reference": "Sahih Al-Muslim",
@@ -193,4 +195,5 @@
         "reference_hadith": "Hadith 21"
       }
     ]
+  }
   }

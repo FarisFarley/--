@@ -1,3 +1,5 @@
+{
+  "status": "Success",
   "details": {
     "name": "The Book of Zuhd and Softening of Hearts",
     "reference": "Sahih Al-Muslim",
@@ -868,4 +870,5 @@
         "reference_hadith": "Hadith 96"
       }
     ]
+  }
   }

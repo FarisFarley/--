@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
   "details": {
     "name": "The Book of Destiny",
     "reference": "Sahih Al-Muslim",
@@ -472,4 +474,5 @@
         "hadith_number": "Hadith 2664"
       }
     ]
+  }
   }

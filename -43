@@ -1,3 +1,5 @@
+  {
+    "status": "Success",
   "details": {
     "name": "The Book of Virtues",
     "reference": "Sahih Al-Muslim",
@@ -2038,4 +2040,5 @@
         "reference_hadith": "Hadith 226"
       }
     ]
+  }
   }

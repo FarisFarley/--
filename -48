@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
  "details": {
     "name": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
     "reference": "Sahih Al-Muslim",
@@ -1147,4 +1149,5 @@
         "hadith_number": "Hadith 2735c"
       }
     ]
+  }
   }

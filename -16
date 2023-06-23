@@ -1,3 +1,5 @@
+{
+  "status": "Success",
 "details": {
     "name": "The Book of Marriage",
     "reference": "Sahih Al-Muslim",
@@ -1525,4 +1527,5 @@
         "reference_hadith": "Hadith 169"
       }
     ]
+  }
   }

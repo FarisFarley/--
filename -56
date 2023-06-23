@@ -1,3 +1,5 @@
+{
+  "status": "Success",
   "details": {
     "name": "The Book of Commentary on the Qur'an",
     "reference": "Sahih Al-Muslim",
@@ -364,4 +366,5 @@
         "narrated_by": "This hadith has been narrated on the authority of Abu Dharr through another chain of transmitters."
       }
     ]
+  }
   }

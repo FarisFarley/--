@@ -1,3 +1,5 @@
+{
+  "status": "Success",
  "details": {
     "name": "The Book of Prayer - Rain",
     "reference": "Sahih Al-Muslim",
@@ -175,4 +177,5 @@
         "reference_hadith": "Hadith 19"
       }
     ]
+  }
   }

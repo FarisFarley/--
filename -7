@@ -1,3 +1,5 @@
+{
+  "status": "Success",
  "details": {
     "name": "The Book of Prayer - Friday",
     "reference": "Sahih Al-Muslim",
@@ -841,4 +843,5 @@
         "reference_hadith": "Hadith 93"
       }
     ]
+  }
   }

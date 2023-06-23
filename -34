@@ -1,3 +1,5 @@
+{
+  "status": "Success",
 "details": {
     "name": "The Book of Hunting, Slaughter, and what may be Eaten",
     "reference": "Sahih Al-Muslim",
@@ -832,4 +834,5 @@
         "reference_hadith": "Hadith 92"
       }
     ]
+  }
   }

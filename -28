@@ -1,3 +1,5 @@
+  {
+    "status": "Success",
   "details": {
     "name": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
     "reference": "Sahih Al-Muslim",
@@ -508,4 +510,5 @@
         "reference_hadith": "Hadith 56"
       }
     ]
+  }
   }

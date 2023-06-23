@@ -1,3 +1,5 @@
+ {
+   "status": "Success",
  "details": {
     "name": "The Book of Repentance",
     "reference": "Sahih Al-Muslim",
@@ -616,4 +618,5 @@
         "reference_hadith": "Hadith 68"
       }
     ]
+  }
   }

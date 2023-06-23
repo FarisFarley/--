@@ -1,3 +1,5 @@
+{
+  "status": "Success",
 "details": {
     "name": "The Book of Divorce",
     "reference": "Sahih Al-Muslim",
@@ -787,4 +789,5 @@
         "reference_hadith": "Hadith 87"
       }
     ]
+  }
   }

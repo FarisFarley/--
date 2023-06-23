@@ -1,3 +1,5 @@
+  {
+    "status": "Success",
   "details": {
     "name": "The Book on Government",
     "reference": "Sahih Al-Muslim",
@@ -2398,4 +2400,5 @@
         "reference_hadith": "Hadith 266"
       }
     ]
+  }
   }

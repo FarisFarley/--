@@ -1,3 +1,5 @@
+{
+  "status": "Success",
   "details": {
     "name": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
     "reference": "Sahih Al-Muslim",
@@ -931,4 +933,5 @@
         "reference_hadith": "Hadith 103"
       }
     ]
+  }
   }

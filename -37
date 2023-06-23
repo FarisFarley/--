@@ -1,3 +1,5 @@
+{
+  "status": "Success",
 "details": {
     "name": "The Book of Clothes and Adornment",
     "reference": "Sahih Al-Muslim",
@@ -1741,4 +1743,5 @@
         "reference_hadith": "Hadith 193"
       }
     ]
+  }
   }

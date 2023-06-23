@@ -1,3 +1,5 @@
+  {
+    "status": "Success",
   "details": {
     "name": "The Book of the Merits of the Companions",
     "reference": "Sahih Al-Muslim",
@@ -2956,4 +2958,5 @@
         "reference_hadith": "Hadith 328"
       }
     ]
+  }
   }
